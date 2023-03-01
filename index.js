@@ -1,2 +1,2 @@
-prompt('nama anda:')
-alert('test')
+let nama = 'test'
+alert(nama)
